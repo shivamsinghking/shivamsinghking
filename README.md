@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivamsinghking
 - 👀 I’m interested in problem Solving, Art, Software Development
 - 🌱 I’m currently learning DSA n algo.
-### 📫 How to reach me 
+### 📫 How to reach me ?
      * singhsanjay20001@gmail.com.
      * [linkedln](https://www.linkedin.com/in/shivam-singh-60826b1a2/)
 
